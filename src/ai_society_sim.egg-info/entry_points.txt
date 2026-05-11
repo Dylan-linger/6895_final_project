@@ -1,0 +1,2 @@
+[console_scripts]
+ai-society-sim = ai_society_sim.cli:main

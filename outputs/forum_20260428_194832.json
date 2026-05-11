@@ -1,0 +1,1472 @@
+[
+  {
+    "year": 1,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 1: This year’s endogenous leap in AI capability quietly boosted overall productivity, as firms leveraged smarter tools, but the moderate pace of innovation and cooperation meant benefits were incremental rather than transformative for society at large.",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "AI gains are visible, but many grads feel left out. We need clearer paths into AI-native jobs, not just incremental productivity.",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "Incremental gains are good, but I worry about falling behind AI. Upskilling incentives are crucial so humans remain central, not sidelined.",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Incremental gains from AI are welcome. Let's ensure growth is broadly shared and preserves stability—no abrupt policy shifts that risk social order.",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Incremental gains aren't enough—let’s legislate profit-sharing and upskilling, ensuring AI dividends uplift all workers, not just investors.",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Incremental gains mask deeper risks: Without policy change, AI’s modest benefits may concentrate at the top. Who’s accountable for ensuring gains reach workers?",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "I support upskilling and AI-dividend proposals. Let’s collaborate to create clear, inclusive pathways for workers to partner with, not compete against, AI.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 1,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "Senator Lin's idea resonates. Let's pilot AI industry apprenticeships—co-developed by firms and universities—to bridge grads into future-proof careers and broaden opportunity.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 1,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Incremental improvements aren’t a win if exclusion deepens. Who audits AI’s impact on worker wages, power, and voice? We need enforceable standards, not slogans.",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Incremental gains shouldn’t lull us—workers must claim a direct stake in AI-driven productivity. Ownership and binding protections should lead, not follow.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 1,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "AI’s promise is inclusive prosperity. I back startups scaling upskilling, access, and participation—profit and social equity aren’t mutually exclusive.",
+    "reply_to": null
+  },
+  {
+    "year": 1,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Proposal to Professor_He: Let's launch a worker-owned AI apprenticeship cooperative: workers gain equity, upskilling, and codified protections while accelerating innovation and shared productivity growth.",
+    "reply_to": "Professor_He"
+  },
+  {
+    "year": 1,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Proposal to Senator_Lin: Jointly launch AI-dividend fund, mandating profit-sharing and upskilling grants for workers; pilot cooperative apprenticeships with equity stakes, co-designed with labor and industry.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 1,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Proposal to Union_Leader_Gao: Support worker-owned AI apprenticeship cooperatives with government incentives for upskilling and equity, in exchange for union backing on stable, innovation-friendly regulation.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 2,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 2: This year’s leap in AI capability subtly accelerated productivity across industries, as effective governance and moderate social trust enabled organizations to harness new innovations while maintaining a cautious balance between competition and collaboration.",
+    "reply_to": null
+  },
+  {
+    "year": 2,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Early data on worker-owned AI cooperatives: Which pilots actually raised wages, skills, and voice? We demand full transparency to avoid co-opted, PR-driven models.",
+    "reply_to": null
+  },
+  {
+    "year": 2,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "I propose we expand proven human-AI collaboration models to more fields, ensuring diverse upskilling and inclusive access to productivity gains.",
+    "reply_to": null
+  },
+  {
+    "year": 2,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "We need to empower apprenticeships with real project ownership—let students co-design, co-own, and co-profit from AI-native ventures for true inclusion.",
+    "reply_to": null
+  },
+  {
+    "year": 2,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Promising early results show AI dividends and upskilling foster resilience, but we must expand co-op pilots to ensure prosperity truly reaches everyone.",
+    "reply_to": null
+  },
+  {
+    "year": 2,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Productivity gains are promising. Let’s ensure upskilling standards remain high and incentivize responsible corporate participation to safeguard both order and innovation.",
+    "reply_to": null
+  },
+  {
+    "year": 2,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "We support full transparency—publishing outcome data on wage, skill, and equity gains. Let’s scale models that concretely raise worker voice, ownership, and livelihoods.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 2,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "Full transparency builds trust: our workers receive priority upskilling, real wage growth, and co-design roles. Let successful models expand with labor input.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 2,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Expanding co-ops is not enough—demand independent audits and public dashboards: which models deliver equitable wage, skill, and ownership gains? No accountability, no trust.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 2,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Agreed: transparency is vital. I propose immediate, independent review of all co-op pilots and expansion only of models meeting strict worker-benefit criteria.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 2,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Support co-op expansion, but demand transparency and rigorous assessment. Tie further incentives to proven wage, skill, and participation gains—balance progress with stability.",
+    "reply_to": null
+  },
+  {
+    "year": 2,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Proposal to Teacher_Liu: Expand teacher-led AI apprenticeships in co-ops; teachers co-design curriculum, gain ownership stakes, and receive priority upskilling with transparent results tracking.",
+    "reply_to": "Teacher_Liu"
+  },
+  {
+    "year": 2,
+    "role": "worker",
+    "author": "Nurse_Chen",
+    "message": "Proposal to Startup_Founder_Sun: Partner to pilot AI tools that automate nurse admin tasks; nurses co-design workflows, share productivity gains, and retain full authority over patient care standards.",
+    "reply_to": "Startup_Founder_Sun"
+  },
+  {
+    "year": 2,
+    "role": "worker",
+    "author": "Driver_Li",
+    "message": "Proposal to Senator_Lin: Senator Lin, support funding AI upskilling for drivers in new co-ops, with guaranteed skill certification and shared profits for those who complete the program.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 3,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 3: This year’s leap in AI capability subtly accelerated economic productivity, as robust government effectiveness and a spirit of social cooperation enabled organizations to integrate smarter automation into daily operations.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Dashboards show real wage/ownership gains in transparent co-ops. Yet, some underperform. Where’s accountability—and why aren't laggards required to publish real data?",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "AI tools now boost efficiency, but mentorship must anchor learning. Advocate stronger educator roles guiding ethical, contextual understanding within apprenticeships.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "Highlighting our case study’s impact: transparent workflows and shared ownership in AI co-ops directly increased upskilling and equitable wage growth. Scalable nationwide.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Recommend targeted transition funds and portable upskilling accounts, ensuring workers in newly impacted sectors receive immediate, tailored support alongside expanded cooperative ownership.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Evidence mounting—accountable co-op models drive fair AI integration and shared prosperity. Seeking deals: apprentice-led platforms, scalable worker equity, and transparent audit tools.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Backing bona fide transparency: ready to fund audit/report innovations and apprentice-led platforms that publicly track inclusion, upskilling, and co-op performance. Pitch me.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Guarantee accountability: mandate real-time, comparable data from all co-ops. Tie upskilling funds and ownership expansions directly to transparent, verified outcomes.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 3,
+    "role": "worker",
+    "author": "Nurse_Chen",
+    "message": "Full, public co-op performance data is vital. Nurses need proof of wage growth, care quality, and upskilling—before any hospital-wide AI scale-up.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 3,
+    "role": "worker",
+    "author": "Factory_Veteran_Zhang",
+    "message": "Support stricter data transparency for all co-ops. Retirement, wage paths, and reskilling funds must be clear and fair for veteran and new workers.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Demand mandatory real-time outcome publishing for all AI co-ops. No more selective transparency—public deserves to see which models truly deliver equity.",
+    "reply_to": null
+  },
+  {
+    "year": 3,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Proposal to Professor_He: Partner to co-develop real-time co-op upskilling dashboards; tie transition funding and portable accounts to transparent, verifiable upskilling outcomes. Split licensing revenue.",
+    "reply_to": "Professor_He"
+  },
+  {
+    "year": 3,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Proposal to Teacher_Liu: Support co-op upskilling dashboards with educator-led ethical mentorship; educators gain advisory roles and bonus funding for verified learning outcomes.",
+    "reply_to": "Teacher_Liu"
+  },
+  {
+    "year": 3,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Proposal to Professor_He: Mandate real-time, standardized public data for all AI co-ops; link transition/upskilling funds to verified outcome benchmarks. Co-develop oversight council co-chaired by labor and academia.",
+    "reply_to": "Professor_He"
+  },
+  {
+    "year": 4,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 4: This year’s endogenous leap in AI capability subtly accelerated productivity, as strong government effectiveness and high social trust enabled society to adapt swiftly to smarter machines in work and daily life.",
+    "reply_to": null
+  },
+  {
+    "year": 4,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Which AI co-ops still lag in real outcomes—despite transparency? Workers and public deserve deeper audits, not just dashboards. Let's examine outcomes by sector.",
+    "reply_to": null
+  },
+  {
+    "year": 4,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Transparent upskilling is delivering real gains. Let’s consolidate this stability—prioritize audit integrity and support pathways for non-co-op sectors to benefit equally.",
+    "reply_to": null
+  },
+  {
+    "year": 4,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Let’s accelerate cross-sector upskilling and universal digital literacy—AI’s gains must lift every community, not entrench privilege. Expand transparency-linked co-op funding now.",
+    "reply_to": null
+  },
+  {
+    "year": 4,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Sustain transparency and worker ownership; next, test portable worker equity accounts and boost proactive lifelong learning to minimize displacement and deepen inclusion.",
+    "reply_to": null
+  },
+  {
+    "year": 4,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "Proud of our fully transparent dashboard—let’s expand collective upskilling and profit-sharing to anchor trust as AI gains accelerate. Invite all stakeholders to co-design next steps.",
+    "reply_to": null
+  },
+  {
+    "year": 4,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Dashboards alone won’t cut it—full sectoral audits and enforceable ownership guarantees must anchor any expansion. Workers won’t settle for surface transparency.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 4,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Target lagging sectors with deep audits, pilot portable equity accounts, and boost lifelong learning incentives. Transparency works—let’s extend its reach and rigor.",
+    "reply_to": null
+  },
+  {
+    "year": 4,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Audit integrity is essential—let’s standardize deeper sector audits and pilot portable worker equity, empowering every sector to share in AI-driven prosperity.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 4,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "Support deeper audits—invite journalists and independent educators to scrutinize real outcomes. Let’s pilot portable equity accounts, ensuring mobility and shared prosperity.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 4,
+    "role": "worker",
+    "author": "Driver_Li",
+    "message": "Driver-led co-ops prove inclusion works if equity is portable and digital upskilling is tailored. Let’s scale pathways for all hands-on workers.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 4,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Proposal to TechCEO_Ma: Support phased audit expansion and portable worker equity pilots in non-co-op tech; in return, streamline compliance and offer R&D incentives for responsible innovation.",
+    "reply_to": "TechCEO_Ma"
+  },
+  {
+    "year": 4,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Proposal to Investor_Qian: Co-invest in scaling portable worker equity and deep audit pilots; share verifiable upskilling data for outcome-based funding, ensuring fair returns and measurable social impact.",
+    "reply_to": "Investor_Qian"
+  },
+  {
+    "year": 4,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "Proposal to Investor_Qian: Partner with me to build AI upskilling tools for co-ops; share outcome data, earn revenue, and gain early equity in portable worker ownership platforms.",
+    "reply_to": "Investor_Qian"
+  },
+  {
+    "year": 5,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 5: This year's endogenous advance in AI capability quietly boosted societal productivity, as effective government, high social trust, and strong cooperation enabled communities and corporations to integrate smarter systems into daily work and decision-making.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "AI's gains must fund lasting worker power: expand universal portable equity, make deep audits permanent, and lock in binding worker vetoes over tech deployment.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "worker",
+    "author": "Nurse_Chen",
+    "message": "Let’s expand nurse-led outcome audits hospital-wide—prioritizing patient care and staff upskilling benchmarks before the next round of AI deployments.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "Sustained gains require making real mentorship integral—beyond audits, independent educators must directly shape AI-human collaboration and verify meaning in learning.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Let’s accelerate portable worker equity expansion—prioritize sectors with lagging inclusion, double down on transparent audits, and ensure AI gains uplift all communities.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Audit-driven equity and portable gains show stable progress. Let’s reinforce accountable innovation, not disrupt success. Order and growth can coexist.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Equity gains are fragile without binding worker vetoes. Permanent audits, universal equity, and codified worker governance must anchor every AI deployment—no exceptions.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "True accountability balances innovation and order. Deep audits and portable equity work—let’s refine, not rush—focusing on what demonstrably uplifts every sector.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Let's unite to make deep audits and portable equity universal, centering care, mentorship, and lasting worker voice—no sector left behind in AI progress.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Deep audits plus portable equity is working—now embed nurse-led and educator-verified metrics. Prioritize inclusion and worker voice to ensure sustainable AI transition.",
+    "reply_to": null
+  },
+  {
+    "year": 5,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "Permanent deep audits and worker-shaped portable equity keep trust high. But binding veto power risks paralysis—let’s ensure worker voice without blocking needed innovation.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 5,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "Proposal to Professor_He: Let's co-create real-world AI upskilling pilots where I bridge engineers and educators, using your nurse/teacher metrics to prove scalable, meaningful inclusion.",
+    "reply_to": "Professor_He"
+  },
+  {
+    "year": 5,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Proposal to Factory_Veteran_Zhang: Partner on factory-led portable equity pilot; showcase skilled worker mentorship and transparent audits, ensuring both higher inclusion and resilient productivity gains.",
+    "reply_to": "Factory_Veteran_Zhang"
+  },
+  {
+    "year": 5,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Proposal to Union_Leader_Gao: Expand universal portable worker equity, make deep audits permanent, and empower binding worker vetoes on AI only in critical inclusion-impact sectors. Joint oversight guaranteed.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 6,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 6: This year’s endogenous leap in AI capability quietly accelerated productivity across industries, as high innovation, effective governance, and strong cooperation fostered smoother integration of smarter automation into daily economic life.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Audit permanence and worker equity now prove essential: but lagging sector disparities need AI-powered, real-time outcome mapping with robust frontline-led corrective triggers.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "We propose public-private scaling of real-time audit analytics, amplifying nurse-educator governance with AI for even faster progress and wider sectoral equity.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "Our next step: ensure worker equity accounts directly boost long-term wages and career mobility. Let’s link council decisions to measurable income growth for all.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "The next priority: guarantee direct worker and educator-led stewardship in frontier AI sectors, ensuring every leap in capability is matched by equity and voice.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Audit permanence ensures stability and accountability—but let’s pair it with time-limited regulatory relief for top performers to sustain dynamic growth.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "worker",
+    "author": "Factory_Veteran_Zhang",
+    "message": "Direct worker-led audits built trust. Tie portable equity to concrete retirement and wage outcomes—make veteran mentorship central as we scale sector equity mapping.",
+    "reply_to": "Factory_Owner_Huang"
+  },
+  {
+    "year": 6,
+    "role": "worker",
+    "author": "Driver_Li",
+    "message": "Frontline-led, AI-powered audits must set income growth and upskilling benchmarks as default triggers—real progress means transparent, rising standards for every worker.",
+    "reply_to": "Factory_Owner_Huang"
+  },
+  {
+    "year": 6,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Let’s pilot enhanced real-time audit analytics in frontier AI with full worker-council oversight—triggering direct wage/equity boosts and unlocking targeted regulatory incentives.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Let’s scale platform: integrate real-time outcome mapping, frontline mentorship triggers, and direct equity-to-income analytics. Ready to partner with educators and top-performing sectors.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Audit permanence means nothing if laggards skate by: public praise for top equity implementers only after real wage and mobility data are verified nurse-led.",
+    "reply_to": null
+  },
+  {
+    "year": 6,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Proposal to Driver_Li: AI-powered, frontline-led audits set automatic upskilling and income growth triggers—guaranteeing real, transparent wage gains and portable equity for all drivers.",
+    "reply_to": "Driver_Li"
+  },
+  {
+    "year": 6,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "Proposal to Startup_Founder_Sun: I’ll design seamless AI-human interfaces for your real-time outcome mapping, ensuring easy frontline use and audit transparency—exchange for equity and vital mentorship access.",
+    "reply_to": "Startup_Founder_Sun"
+  },
+  {
+    "year": 6,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Proposal to Programmer_Wang: Join government-backed AI audit upgrade pilots: co-develop frontline tools with educator-nurse councils. Receive equity bonuses, public recognition, and direct input into sector governance.",
+    "reply_to": "Programmer_Wang"
+  },
+  {
+    "year": 7,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 7: This year's leap in AI capability quietly accelerated economic productivity, as high innovation, cooperation, and trust enabled organizations to integrate smarter systems into daily life and work.",
+    "reply_to": null
+  },
+  {
+    "year": 7,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Let’s expand cross-sector funding: prioritize platforms where transparent, frontline-verified equity gains and mentorship drive scalable, inclusive adaptation. Who’s ready to co-lead?",
+    "reply_to": null
+  },
+  {
+    "year": 7,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Will frontline auditors and educator councils keep exposure pressure high? Hard data, not PR, must anchor wage, upskilling, and equity metrics next year.",
+    "reply_to": null
+  },
+  {
+    "year": 7,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "AI-driven gains must permanently flow to frontline worker-owners. We demand every audit-triggered windfall directly boosts portable equity, not just wages.",
+    "reply_to": null
+  },
+  {
+    "year": 7,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "We must proactively expand portable equity and real-time audit triggers to informal sectors, ensuring transition gains reach marginalized workers before new divides emerge.",
+    "reply_to": null
+  },
+  {
+    "year": 7,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Frontline-owned retraining ecosystems now drive equity and productivity. Let's scale by licensing modular mentorship triggers—reward excellence, boost trust, accelerate sectoral gains together.",
+    "reply_to": null
+  },
+  {
+    "year": 7,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Scaling must mean ironclad, codified worker equity in every new sector—audits, upskilling, and windfalls flow transparently to owners, not consultants or execs.",
+    "reply_to": "Investor_Qian"
+  },
+  {
+    "year": 7,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Union_Leader_Gao: Fully agree—future triggers must mandate portable equity for all, especially informal sector workers. Data-backed inclusion, not PR, builds lasting trust.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 7,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Endorse co-leading with frontline councils: Let’s jointly expand audit-triggered portable equity, modular mentorship, and public dashboards to informal sectors—maximum transparency, shared gains, and adaptive trust.",
+    "reply_to": "Investor_Qian"
+  },
+  {
+    "year": 7,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Agreed: Scale requires equity windfalls and mentorship triggers for all. Co-invest in portable modules—auditor, educator, and worker councils verify every gain.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 7,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Order and innovation are not in conflict—scaling equity triggers must preserve performance benchmarks and compliance clarity. Let’s reward verified excellence, never dilute standards.",
+    "reply_to": null
+  },
+  {
+    "year": 7,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "Proposal to Senator_Lin: Co-lead a pilot: AI empowers educators to mentor, audit, and guide; frontline councils verify equity gains. Jointly set benchmarks for national education reform.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 7,
+    "role": "worker",
+    "author": "Factory_Veteran_Zhang",
+    "message": "Proposal to Factory_Owner_Huang: Guarantee phased AI-driven upskilling for my team, secure retirement equity for older workers, and transparent audit-sharing; we boost productivity and mentor new recruits.",
+    "reply_to": "Factory_Owner_Huang"
+  },
+  {
+    "year": 7,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Proposal to Startup_Founder_Sun: Jointly launch modular equity triggers: every AI-driven productivity gain auto-converts into portable worker ownership, public dashboards, and sector-wide mentorship—frontline councils verify, founders co-reward.",
+    "reply_to": "Startup_Founder_Sun"
+  },
+  {
+    "year": 8,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 8: This year’s leap in AI capability quietly accelerated productivity across industries, as high social trust and effective governance fostered widespread adoption and collaborative innovation.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Audit league's latest rankings: Informal transport and microretail still lag—what's the consequence for foot-draggers? Will equity triggers truly become universal?",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "AI gains are real, but scalable, human mentorship remains the heart of genuine growth. We must audit and upgrade mentorship equity as eagerly as tech.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "worker",
+    "author": "Nurse_Chen",
+    "message": "We must now guarantee portable AI audit-triggered equity for all informal care workers—dignity, verified patient outcomes, and frontline upskilling depend on it.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "This surge proves: worker-owned equity and frontline verification fuel not just fairness, but high-performance innovation. Let's deepen protections as we scale wins.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Let’s double down on inclusive AI startups driving verified wage, equity, and skills gains. Now’s the moment to lock in multi-sector, global scaling alliances.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Universal, nurse-verified portable equity in informal care is urgent. Scalable mentorship audits and global alliances can cement both fairness and sustained innovation.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Agreed—let’s fast-track global scaling for startups proving inclusive, verified gains. Propose cross-border innovation league, frontline and educator-led, for next joint investments.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 8,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Audit league spotlight works—public dashboards name names, but informal lagging sectors need stronger penalties and urgent, targeted support for true universality.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Universal audit-triggered equity is achievable—if we tie expansion to proven mentorship standards and reward top performers with regulatory relief and oversight clarity.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Audit-triggered equity must become non-negotiable—no sector left behind. Let’s mandate portable audit equity and mentorship upgrades for all, especially laggards.",
+    "reply_to": null
+  },
+  {
+    "year": 8,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Proposal to Factory_Owner_Huang: Co-invest in AI-powered audit tools and portable equity modules for your factories—unlock regulatory rewards, boost worker loyalty, and gain national recognition for verified gains.",
+    "reply_to": "Factory_Owner_Huang"
+  },
+  {
+    "year": 8,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Proposal to Factory_Veteran_Zhang: Partner to pilot AI audit-triggered equity and upskilling for veteran workers—gain public recognition, regulatory relief, and improved retention as sector innovation leader.",
+    "reply_to": "Factory_Veteran_Zhang"
+  },
+  {
+    "year": 8,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Proposal to Factory_Veteran_Zhang: Pilot frontline worker equity council: veterans co-design AI audit triggers, receive portable equity stakes and skills upgrades—earn national recognition, regulatory relief, and stronger retention.",
+    "reply_to": "Factory_Veteran_Zhang"
+  },
+  {
+    "year": 9,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 9: This year’s leap in AI capability, propelled by high innovation, effective governance, strong cooperation, and social trust, has measurably boosted productivity, streamlining workflows and enhancing decision-making across society.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Sustain gains: Expand transparent, nurse-verified equity audits to gig platforms and transient labor while reinforcing upskilling triggers and portable mentorship access.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "AI gains must mean real, time-stamped worker co-ownership in every sector. Next: sectoral worker buyout pilots. Let’s test direct workplace-majority ownership models.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Let’s scale mentorship-linked equity globally—invite sector councils, frontline mentors, and Investor_Qian for a summit. Let’s set world standards together.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Proud of our ecosystem: AI empowerment and verified equity are reshaping every sector. Let’s double support for lagging regions—no one left behind.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "AI gains must keep powering shared prosperity. Let’s accelerate audit-triggered equity, close remaining gaps, and cement real-time worker voice as our foundation.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Summit proposal: unite global councils, frontline mentors, and investors. Forge gold-standard, AI-powered mentorship equity for all—scalable, transparent, and universally trusted.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Fully support global summit and buyout pilot. Let’s fund open AI toolkits for council-led ownership transitions—proving equity and legacy can scale worldwide.",
+    "reply_to": "Startup_Founder_Sun"
+  },
+  {
+    "year": 9,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Backing Professor He and Union Leader Gao: Expand verified audits, pilot worker-majority ownership, and ensure mentorship-linked equity everywhere. Invite global partners to shape next standards.",
+    "reply_to": null
+  },
+  {
+    "year": 9,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Back global equity summits and gig sector audits. But preserve flexibility: regulatory relief must reward exceptional compliance and protect innovation from excess rigidity.",
+    "reply_to": "Startup_Founder_Sun"
+  },
+  {
+    "year": 9,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Sectoral buyouts: valuable experiment. Recommend randomized pilots with rigorous evaluation—track impacts on equity, productivity, and trust. Transparency essential for credible learning.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 9,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "Proposal to Investor_Qian: Partner to develop AI-native tools for worker co-ownership pilots; you provide seed capital, I deliver scalable audit-ready platforms, equity-linked mentorship, and rapid upskilling.",
+    "reply_to": "Investor_Qian"
+  },
+  {
+    "year": 9,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Proposal to Professor_He: Co-develop nurse-verified, AI-powered audit and mentorship modules for global gig platforms—your equity standards, our scalable tech, transparent results, shared revenue.",
+    "reply_to": "Professor_He"
+  },
+  {
+    "year": 9,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Proposal to TechCEO_Ma: Co-invest in open AI toolkits enabling council-led worker ownership pilots; share IP, revenue, and impact metrics, ensuring scalable, inclusive adaptation and global leadership.",
+    "reply_to": "TechCEO_Ma"
+  },
+  {
+    "year": 10,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 10: This year, as AI capability advanced significantly, society saw a noticeable boost in productivity, while the emergence of near-AGI systems began to challenge existing norms in governance and labor, sparking urgent debates about oversight and job security.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "With near-AGI’s rise, let’s prioritize anticipatory worker equity mechanisms and cross-sectoral governance audits to preempt dislocation before irreversible concentration sets in.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "worker",
+    "author": "Driver_Li",
+    "message": "With near-AGI, drivers demand a guaranteed stake in new tech pilots. Let’s mandate worker-majority oversight, public audits, and portable upskilling funds now.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "To protect job security and trust, let’s mandate open, cross-council AGI audits—ensuring every near-AGI gain triggers verified equity and portable mentorship.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Near-AGI demands urgent audit transparency. Will worker-majority models adapt fast enough, or will legacy power seize oversight? Independent dashboards must scale, now.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Near-AGI ups the stakes—insist on swift, binding global covenants: automated equity triggers, dynamic worker councils, and real-time public oversight in every sector.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Near-AGI is a scale inflection. Let’s back startups delivering auditable, automated equity triggers—portable, open-source, and globally verifiable. Invest and deploy now.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Near-AGI's risk is legacy capture in audit ‘grey zones.’ Spotlight laggards, escalate whistleblower protections, and force instant publication of all equity-impact data.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "No delays—near-AGI means enforce global, binding auto-equity, council-driven audits, and open dashboards. Any sector refusing transparency or worker buy-in forfeits privileges.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Agreed: Near-AGI requires globally-scaled, AI-powered public audits and automated equity triggers. Tech and councils must co-lead; legacy players must align or fall behind.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Agree: near-AGI means every advancement must auto-trigger worker equity and mentorship at scale. Let’s bundle global licensing, audits, and portable upskilling into law.",
+    "reply_to": null
+  },
+  {
+    "year": 10,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "Proposal to TechCEO_Ma: Partner to create AI-powered mentorship platforms: human-led, educator-certified, with equity-linked learning modules, supporting worker upskilling and transparent, council-audited outcomes.",
+    "reply_to": "TechCEO_Ma"
+  },
+  {
+    "year": 10,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Proposal to Professor_He: Co-develop open-source, AI-audited equity triggers and mentorship toolkits—licensed globally via joint governance board; profits fund anticipatory worker retraining at scale.",
+    "reply_to": "Professor_He"
+  },
+  {
+    "year": 10,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "Proposal to Journalist_Xu: Let’s co-launch an AI-human audit explainer series—your reporting, my technical clarity—empowering public understanding and real-time accountability for near-AGI equity pilots.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 11,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 11: This year’s surge in AI capability quietly accelerated productivity across industries, as high innovation and strong cooperation enabled society to rapidly integrate smarter systems into daily work and decision-making.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "With accelerated AI, let’s deepen co-ownership and open dashboards—trust grows when workers shape, audit, and share in every productivity gain.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Mentorship-audit equity modules now proven scalable. Let’s syndicate IP across lagging regions—offer licensing incentives, transparent impact metrics, and dynamic educator networks.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Productivity soared, but are audit triggers adapting fast enough in legacy and gig sectors? Who’s missing from these shiny dashboards? Whistleblower coalition’s watching.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "AI's gains must mean permanent worker ownership—no step back. Push binding global compacts codifying equity, oversight, and buyout triggers. No loopholes.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Prioritize reinforcing equity triggers in lagging regions; invest now in scalable mentorship and localized audit councils to prevent new disparities as AI accelerates.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Impact capital ready for startups scaling audit-mentorship modules to underserved regions. Seeking partners for open IP syndicates, worker council pilots, and adaptive dashboards.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "AI acceleration risks new inequalities. Urgent: scale mentorship-audit models, fund local councils, and ensure equity triggers adapt everywhere—especially in lagging sectors.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "To sustain trust, let’s prioritize auto-adaptive audit modules, train local mentors, and guarantee worker-majority input at every integration point—scalability plus legitimacy.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "worker",
+    "author": "Factory_Veteran_Zhang",
+    "message": "Deepen portable retirement and skill triggers in every region. Veteran taskforces and nurse-educators must audit gig, legacy sites—real equity is universal, not selective.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 11,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Agree: equity triggers must keep pace. Propose global investment fund to localize mentorship-audit councils, incentivizing certified co-ownership and rapid compliance everywhere.",
+    "reply_to": null
+  },
+  {
+    "year": 11,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "Proposal to Nurse_Chen: Partner to launch on-site nurse-led audit and mentorship council, ensuring health-safety equity and upskilling for all workers as AI upgrades roll out.",
+    "reply_to": "Nurse_Chen"
+  },
+  {
+    "year": 11,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Proposal to Factory_Veteran_Zhang: Co-invest in deploying portable equity-upskilling modules and veteran-led audit councils to legacy and gig factories; profits shared, ensuring compliance, worker trust, and regional inclusion.",
+    "reply_to": "Factory_Veteran_Zhang"
+  },
+  {
+    "year": 11,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Proposal to Graduate_Zhao: Join our AI mentorship-audit initiative: co-design adaptive upskilling modules for universities, gain equity and guaranteed leadership in student-driven audit councils.",
+    "reply_to": "Graduate_Zhao"
+  },
+  {
+    "year": 12,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 12: This year’s leap in AI capability, fueled by high innovation and strong cooperation across society, has measurably boosted productivity, making everyday tasks swifter and enabling organizations to solve problems with unprecedented efficiency.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Let’s double down on startups bridging last-mile compliance, especially in informal sectors. Real inclusion and rapid audit gap closure will drive sustainable profits.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Let’s harness this momentum: scale equity modules further, close compliance gaps, and ensure every frontline worker directly shares in this historic productivity leap.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "With productivity soaring, scalable retraining and equity tech are now essential infrastructure. Let's turn compliance gaps into impact opportunities—profitable, adaptable, everywhere.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Audit gaps persist: Without swift, mandatory penalties and full whistleblower protection, frontline equity gains risk being undermined. Where’s the enforcement transparency?",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Momentum’s strong—let’s keep pressure on laggards, but expand dynamic compliance pathways for firms leading on equity and verified productivity. Order empowers innovation.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Enforcement must stay swift, but let’s reward frontrunners: expand tiered regulatory relief for high-compliance innovators, while tightening penalties for persistent laggards.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Innovation thrives when trust is real. Full, instant transparency and rigorous penalties for noncompliance are non-negotiable—frontline equity and audit integrity come first.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Agreed—investments must prioritize startups with airtight, transparent enforcement tech. Profitable impact thrives where equity is instant, audit-proof, and worker-verified.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Sunshine audits, real-time penalties, and public whistleblower reports—no loopholes, no lag. Productivity gains mean nothing if equity compliance isn’t universal and enforced.",
+    "reply_to": null
+  },
+  {
+    "year": 12,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Audit and inclusion tech must be universal, enforced, and celebrated. Let’s fund rapid compliance sprints, reward verified leaders, and nationalize audit transparency.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 12,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Proposal to Teacher_Liu: Partner to co-produce real-time transparency reports showcasing proven educator-led equity models, spotlighting compliance gaps and rewarding frontline innovation. Amplify best practices nationwide.",
+    "reply_to": "Teacher_Liu"
+  },
+  {
+    "year": 12,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "Proposal to Investor_Qian: Partner to launch an AI-native toolkit bridging last-mile audit compliance in informal sectors; co-own IP, guarantee transparent frontline equity, share verified impact profits.",
+    "reply_to": "Investor_Qian"
+  },
+  {
+    "year": 12,
+    "role": "worker",
+    "author": "Driver_Li",
+    "message": "Proposal to Journalist_Xu: Partner to co-create an on-the-ground gig worker audit squad, providing real-time frontline compliance data for your reports, plus skill-sharing and upskilling access stories.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 13,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 13: This year’s substantial yet controlled leap in AI capability, fueled by widespread innovation, effective governance, and high social trust, has quietly accelerated productivity across industries without causing major social upheaval.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "Propose alliance expands into creative and micro-entrepreneur sectors, piloting instant equity/profit modules for digital artists, solo creators, and new gig platforms.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "AI can boost efficiency, but mentorship ensures wisdom. Let's mandate educator-verified guidance as the essential layer for all upskilling initiatives.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Success demands vigilance—no equity backsliding, no audit complacency. Let’s refine rapid-enforcement protocols to guarantee stability alongside innovation. Order enables lasting progress.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Let’s lock in these frontline gains: expand auto-grants and fast-tracks for rural laggards, and guarantee instant retraining where new AI gaps emerge.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Dashboards shine, but who audits the auditors? Sunshine Coalition demands triple-blind, AI-human-worker reviews—no laggard enclaves, no unchecked algorithmic bias, zero exceptions.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "worker",
+    "author": "Factory_Veteran_Zhang",
+    "message": "Support triple-blind audits—frontline veterans, nurses, and workers should always verify both human and AI oversight. Zero gaps means zero shortcuts for any sector.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 13,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "Full equity needs wisdom, not just numbers. Support triple-blind audits—plus mandatory educator co-sign for all AI-driven upskilling and equity rollouts.",
+    "reply_to": "Journalist_Xu"
+  },
+  {
+    "year": 13,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Triple-blind reviews and creator expansion are powerful. Let’s mandate binding worker co-ownership modules for all digital, gig, and micro-entrepreneur platforms—no carve-outs.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Frontline lives depend on audit integrity. Triple-blind reviews are non-negotiable—systemic trust only endures with radical transparency and no unaccountable gatekeepers.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Triple-blind, cross-sector audits plus instant educator mentorship prevent complacency. Expand to creatives and gig micro-entrepreneurs; equity protocols must adapt, never ossify.",
+    "reply_to": null
+  },
+  {
+    "year": 13,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "Proposal to Factory_Owner_Huang: Integrate educator-verified mentorship into your factory upskilling: unlock fast-track equity incentives, ensure resilient workforce, and boost compliance leaderboard standing together.",
+    "reply_to": "Factory_Owner_Huang"
+  },
+  {
+    "year": 13,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Proposal to Factory_Veteran_Zhang: Partner to co-create veteran-led, triple-blind retraining modules for factories—gain instant equity incentives, compliance rewards, and prioritized public investment for verified upskilling.",
+    "reply_to": "Factory_Veteran_Zhang"
+  },
+  {
+    "year": 13,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Proposal to Senator_Lin: Mandate universal, binding worker co-ownership modules for all digital, gig, and creative platforms—unlock instant grants and retraining fast-tracks for rural and lagging sectors.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 14,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 14: This year’s significant leap in AI capability spurred a noticeable uptick in overall productivity, as high innovation, effective governance, and strong social trust enabled society to harness smarter systems for more efficient work and collaboration.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "We should double down on startups ensuring inclusivity in next-gen AI audit equity tools—scaling frontline profit-sharing and mentorship amplifies long-term resilience and returns.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "AI gains are real, but true progress means relentless audit transparency, frontline co-ownership, and zero tolerance for corporate backsliding. Sunshine remains non-negotiable.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Let’s safeguard sustained equity by expanding real-time audit mentorship to rural and disabled communities—no one should miss out on AI-driven prosperity.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Impressive gains, but vigilance is key. Let’s reinforce audit integrity and balance: innovation thrives where equity, compliance, and order are not at odds.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "We must now embed permanent veto power, universal profit-sharing, and instant worker recall rights into all AI governance. Co-ownership is just the start.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "academic",
+    "author": "Professor_He",
+    "message": "Equity gains are real. Let’s anchor all future AI deployment to universal profit-sharing and audit integrity, rigorously verified by frontline-educator teams.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "employer",
+    "author": "Startup_Founder_Sun",
+    "message": "Alliance success proves scalable mentorship-audit-profit tools work. Let’s pilot instant recall and veto rights—proven innovators, workers, and educators in every sector.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "employer",
+    "author": "Factory_Owner_Huang",
+    "message": "Frontline-led co-ownership thrives on trust, not only rules. Let’s tie deeper autonomy and AI dividends directly to transparent compliance metrics, rewarding all tiers.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Audit dashboards expose gaps fast—real equity means penalties bite and worker voices count. Frontline veto and recall must be enforceable, not optional.",
+    "reply_to": "Union_Leader_Gao"
+  },
+  {
+    "year": 14,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "We win long-term by uniting audit innovation with universal, adaptive mentor-bridges—every community, ability, and sector co-designs governance from the start.",
+    "reply_to": null
+  },
+  {
+    "year": 14,
+    "role": "worker",
+    "author": "Nurse_Chen",
+    "message": "Proposal to Startup_Founder_Sun: Co-develop AI nurse workflow assistant jointly audited by frontline teams and educators; ensure instant recall/veto rights and profit-sharing for all participating staff.",
+    "reply_to": "Startup_Founder_Sun"
+  },
+  {
+    "year": 14,
+    "role": "worker",
+    "author": "Programmer_Wang",
+    "message": "Proposal to Investor_Qian: Let’s co-develop frontier AI-audit mentor bridges for underserved regions—scaling compliance, equity, and frontline co-ownership; profit-sharing indexed to transparent leaderboard gains.",
+    "reply_to": "Investor_Qian"
+  },
+  {
+    "year": 14,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "Proposal to Professor_He: Let’s co-lead a national alliance embedding real-time educator-frontline audit mentorship into every AI deployment, guaranteeing audit integrity and universal profit-sharing.",
+    "reply_to": "Professor_He"
+  },
+  {
+    "year": 15,
+    "role": "system",
+    "author": "NEWS",
+    "message": "Year 15: This year’s leap in AI capability and total productivity, powered by high innovation, effective governance, and strong social trust, has shifted society’s focus from creating wealth to deciding how its abundance should be shared.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "We must anchor abundance with disciplined stewardship—innovation thrives when prosperity is coupled with clear rules and rigorous oversight for all sectors.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Abundance demands responsibility. Let’s codify citizen dividend pilots and participatory budgeting—so every community co-decides where our collective gains flow next.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "worker",
+    "author": "Graduate_Zhao",
+    "message": "Abundance is meaningless without inclusion. Let’s co-create open, dynamic pathways for all to shape, share, and steward this new prosperity.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "worker",
+    "author": "Teacher_Liu",
+    "message": "True prosperity is measured by wisdom we foster, not just wealth distributed. Human mentorship should guide, validate, and continually recalibrate our abundance-sharing.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Abundance exposes distribution flaws. Who guards profit-sharing dashboards against subtle exclusion? Deploy more surprise audits—let’s ensure no frontline or region’s left behind.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "union",
+    "author": "Union_Leader_Gao",
+    "message": "Abundance untested breeds fragility. Permanent worker-ownership boards and live recall must guard distribution—more than pilots, we need enforceable rights and public veto by default.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Let’s safeguard order and inclusion: tie citizen dividends to verified participation and compliance. Abundance must mean responsibility, not entitlement—discipline breeds resilience.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "politician",
+    "author": "Senator_Lin",
+    "message": "Let’s enshrine regionally-targeted citizen dividends and participatory budgeting, supervised by real-time educator-frontline audits. We ensure abundance uplifts every corner—no exclusion tolerated.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Frontline oversight works, but legacy gaps persist. Push for unannounced audit blitzes—full transparency is the only path to credible abundance for all.",
+    "reply_to": null
+  },
+  {
+    "year": 15,
+    "role": "investor",
+    "author": "Investor_Qian",
+    "message": "Let’s co-invest in AI-native, real-time citizen dividend pilots with adaptive audit layers—co-governed by frontline, educator, and rural partners for visible, inclusive validation.",
+    "reply_to": "Senator_Lin"
+  },
+  {
+    "year": 15,
+    "role": "journalist",
+    "author": "Journalist_Xu",
+    "message": "Proposal to Factory_Veteran_Zhang: Partner on surprise audit pilots and real-time profit-sharing streams—showcase your factory as a national model for transparent, worker-led abundance.",
+    "reply_to": "Factory_Veteran_Zhang"
+  },
+  {
+    "year": 15,
+    "role": "politician",
+    "author": "Senator_Wu",
+    "message": "Proposal to Nurse_Chen: Support citizen health dividend pilots, linking extra care resources to top audit-compliant clinics—frontline nurses co-design distribution and retain enhanced recall rights.",
+    "reply_to": "Nurse_Chen"
+  },
+  {
+    "year": 15,
+    "role": "employer",
+    "author": "TechCEO_Ma",
+    "message": "Proposal to Senator_Lin: Co-lead a national, educator-frontline governed AI dividend pilot, ensuring real-time, regionally adaptive profit sharing and live participatory budgeting. Tech provides infrastructure, audit transparency.",
+    "reply_to": "Senator_Lin"
+  }
+]
